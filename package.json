@@ -1,0 +1,17 @@
+{
+  "name": "mi0n2-bmi-calculator",
+  "version": "2.0.1",
+  "description": "A simple calculator with Typescript,Node.js & Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabiha Naz",
+  "license": "MIT",
+  "dependencies": {
+    "mi0n2-bmi-calculator": "^2.0.1"
+  }
+}
+
